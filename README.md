@@ -36,21 +36,9 @@ Reconocimiento → Enumeración → Análisis → Explotación → PrivEsc → P
 htb-writeups/
 ├── README.md               ← Este archivo (índice general)
 ├── TEMPLATE.md             ← Plantilla para nuevos write-ups
-├── Cap/
-│   ├── README.md           ← Write-up completo
-│   └── screenshots/        ← Evidencias
-├── Silentium/
-│   ├── README.md
-│   └── screenshots/
-├── Facts/
-│   ├── README.md
-│   └── screenshots/
-├── MonitorsFour/
-│   ├── README.md
-│   └── screenshots/
-└── Manage/
-    ├── README.md
-    └── screenshots/
+├── WRITEUP-Abducted.md
+├── WRITEUP-Cap.md
+├── WRITEUP-FireFlow.md
 ```
 
 ---
